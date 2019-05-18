@@ -1,0 +1,24 @@
+configuration:
+  # Largura da plot multiplicada por 2
+  base: 1764
+  
+messages:
+  local: '&c&lERRO &cVocê não está na sua plot!'
+  permission: '&cVocê não possui permissão para isso!'
+  sintaxe: '&c&lERRO &cUtilize /giveclearplot <jogador> <quantidade>'
+  online: '&c&lERRO &cInfelizmente esse jogador não está online!'
+  given: '&a&lSUCESSO &aO item foi givado com sucesso!'
+  cleared: '&a&lSUCESSO &aSua plot foi limpa com sucesso!'  
+    
+# Som ao terminar a limpeza
+sound: 'NOTE_PLING'
+
+item:
+  id: 399
+  data: 0
+  name: '&e&lLIMPADOR DE TERRENOS'
+  lore:
+  - ''
+  - ' &7Clique com o botão esquerdo'
+  - ' &7no seu terreno, para que seja limpo!'
+  - ''

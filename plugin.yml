@@ -1,0 +1,5 @@
+name: RhinoClearPlot
+main: me.joao.whitshs.rhinomc.clearplots.Main
+version: 1.0
+commands:
+  giveclearplot:
