@@ -1,4 +1,4 @@
-name: RhinoClearPlot
+name: WsClearPlot
 main: me.joao.whitshs.rhinomc.clearplots.Main
 version: 1.0
 commands:
